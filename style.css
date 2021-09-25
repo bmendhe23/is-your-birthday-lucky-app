@@ -33,3 +33,25 @@ button {
     margin: 1rem;
     background-color: rgb(243, 211, 170);
 }
+
+#privacy-note {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+footer ul {
+    padding-left: 0px;
+}
+
+ul li{
+    text-decoration: none;
+    display: inline;
+    margin: 1rem;
+}
+
+.link {
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(171, 107, 223);
+    text-align: left;
+}
