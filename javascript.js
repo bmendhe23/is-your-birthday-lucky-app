@@ -15,8 +15,8 @@ function checkBirthdayHandler() {
     }
     console.log(sum);
     if((digitFromDOB%(luckyNumber.value))===0) {
-        outputBox.innerText = "Yay! Your Birthday is Lucky";
+        outputBox.innerText = "🥳 Yay! Your Birthday is Lucky 🎉";
     } else {
-        outputBox.innerText = "Sorry, Your Birthday is not Lucky";
+        outputBox.innerText = "Your Birthday is not Lucky ☹️";
     }
 }
